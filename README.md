@@ -4,16 +4,18 @@ Python with Django Lab  This repository contains my lab work and projects develo
 
 First Django Application – Python Web Development
 
-This project is my first Django application built using the Python Django framework. It demonstrates the basics of Django project structure, app creation, URL routing, views, and templates.
+SRM is my first Django application built using the Django framework. It introduces the fundamentals of project setup, app creation, URL routing, views, and templates.
 
-📌 Features
+📌 Key Features
 
-Django Project Setup → Created using django-admin startproject
+Django Project Setup → Created using django-admin startproject.
 
-App Creation → Added an application inside the project for modular development
+App Creation → Added an IT app inside the project for modular development.
 
-URL Routing → Configured urls.py to handle different paths
+URL Routing → Configured urls.py to handle different paths.
 
-Views → Implemented basic request handling with Python functions
+Views → Implemented basic request handling using Python functions.
 
-Templates → Displayed HTML responses using Django’s template system
+Templates → Displayed HTML responses using Django’s template system.
+
+Registration Form → A simple registration form (registration.html) is placed inside the IT app’s templates folder and rendered through a Django view.
