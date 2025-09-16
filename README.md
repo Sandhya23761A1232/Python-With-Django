@@ -21,3 +21,6 @@ Views → Implemented basic request handling using Python functions.
 Templates → Displayed HTML responses using Django’s template system.
 
 Registration Form → A simple registration form (registration.html) is placed inside the IT app’s templates folder and rendered through a Django view.
+
+
+
