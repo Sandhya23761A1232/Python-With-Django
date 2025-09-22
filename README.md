@@ -23,3 +23,17 @@ Registration Form → A simple registration form (registration.html) is placed i
 
 
 
+
+
+
+------------Django Authentication System--------
+This project is a Django web application that implements user authentication and management features. It demonstrates how to handle user registration, login, logout, and how administrators can manage registered users.
+Key Features:
+User Registration – New users can create accounts securely.
+User Login & Logout – Authentication system using Django’s built-in auth module.
+Admin Dashboard – Admin can view and manage all registered users.
+Session Management – Ensures secure user sessions.
+Template Integration – Clean and simple UI for authentication pages.
+
+
+
