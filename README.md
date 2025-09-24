@@ -10,10 +10,15 @@ SRM is my first Django application built using the Django framework. It introduc
 Key Features:
 
 Django Project Setup → Created using django-admin startproject.
+
 App Creation → Added an IT app inside the project for modular development.
+
 URL Routing → Configured urls.py to handle different paths.
+
 Views → Implemented basic request handling using Python functions.
+
 Templates → Displayed HTML responses using Django’s template system.
+
 Registration Form → A simple registration form (registration.html) is placed inside the IT app’s templates folder and rendered through a Django view.
 
 
