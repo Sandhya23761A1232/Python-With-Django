@@ -6,6 +6,7 @@ Python with Django Lab  This repository contains my lab work and projects develo
 
 
 
+
 ---------------First Django Application – Python Web Development-----------
 
 SRM is my first Django application built using the Django framework. It introduces the fundamentals of project setup, app creation, URL routing, views, and templates.
