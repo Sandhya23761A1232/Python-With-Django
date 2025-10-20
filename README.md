@@ -44,3 +44,25 @@ Template Integration – Clean and simple UI for authentication pages.
 
 
 
+
+
+
+------------Django Carousel App---------------
+
+🧩 About the Project:
+A modern Django web application featuring a fully functional image carousel system that lets users easily upload, organize, and showcase images in a sleek, responsive slider layout. Built to demonstrate how dynamic media content can be integrated seamlessly into Django projects.
+
+⚙️ Features:
+
+📸 Add and display multiple images in a carousel
+
+🧠 Dynamic content rendering using Django ORM
+
+🪶 Clean and responsive UI with Bootstrap
+
+🗂️ Admin panel for easy image management
+
+🔄 Automatic carousel transitions with smooth animations
+
+
+
