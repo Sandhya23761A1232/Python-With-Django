@@ -66,3 +66,27 @@ A modern Django web application featuring a fully functional image carousel syst
 
 
 
+
+
+
+
+
+
+-------------Django Sample Page with Bootstrap Integration------------
+
+This project showcases how to build a simple and responsive web page using Django as the backend framework and Bootstrap for frontend styling. It’s a beginner-friendly example for understanding how to integrate Bootstrap with Django templates and static files.
+
+🚀 Features
+
+Responsive design using Bootstrap 5
+
+Django template inheritance (base and child templates)
+
+Static file management (CSS, JS, Images)
+
+Simple and clean user interface
+
+Easy-to-understand project structure for beginners
+
+
+
