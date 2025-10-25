@@ -90,3 +90,28 @@ Easy-to-understand project structure for beginners
 
 
 
+
+
+
+-------------------Login and Registration System using MVC Architecture in Django---------------------------
+
+This project demonstrates how to build a Login and Registration Page using the Django Framework while following the Model-View-Controller (MVC) architectural pattern (implemented as Model-View-Template (MVT) in Django).
+
+It provides a secure and structured way to handle user authentication, session management, and form validation, making it a perfect foundation for larger Django applications.
+
+🚀 Features
+
+User Registration with validation
+
+Secure Login and Logout functionality
+
+Password hashing for user security
+
+Session-based authentication
+
+Django Model-View-Template (MVC) structure
+
+Responsive front-end with HTML & CSS
+
+
+
