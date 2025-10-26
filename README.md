@@ -115,3 +115,41 @@ Responsive front-end with HTML & CSS
 
 
 
+
+
+
+
+
+
+
+
+ ---------User Authentication System using Django (MVC Architecture)--------------
+
+This project is a User Authentication Web Application developed using the Django Framework, following the MVC (Model-View-Controller) architecture pattern. It allows users to register, log in, and log out securely, ensuring proper validation and session management.
+
+The Model layer handles database operations using Django’s ORM, the View layer manages the application logic, and the Template layer acts as the Controller interface to display dynamic content.
+
+This project demonstrates essential concepts of Django such as:
+
+URL routing
+
+Form handling and validation
+
+Session and authentication management
+
+Template rendering and dynamic data display
+
+⚙️ Features
+
+🔐 User Registration with form validation
+
+🔑 Login & Logout functionality
+
+🧠 Password hashing for secure authentication
+
+🧾 Session management to maintain user state
+
+🖥️ MVC-based structure (Models, Views, Templates separation)
+
+💡 Simple and clean UI using Bootstrap
+
