@@ -153,3 +153,33 @@ Template rendering and dynamic data display
 
 💡 Simple and clean UI using Bootstrap
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+---------------Hello World Application using Django-----------------
+ Description:
+
+This project is a simple Django web application that displays the classic “Hello, World!” message on a web page. It serves as an introductory experiment to understand the basic setup, configuration, and execution of a Django project. The application demonstrates how to create a Django project, define a view, configure URLs, and render output to the browser.
+
+🚀 Key Features:
+
+Basic Django project and app creation
+
+URL routing and view handling
+
+Rendering text response (“Hello, World!”) to the client
+
+Understanding Django’s MVC/MVT architecture
+
+Local server setup and testing
+
